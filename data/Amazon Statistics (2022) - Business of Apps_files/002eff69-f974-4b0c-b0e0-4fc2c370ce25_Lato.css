@@ -1,0 +1,17 @@
+
+
+@font-face {
+    font-family: 'igbr-Lato';
+    
+    font-weight: bold;
+    
+    
+    src: 
+        url('https://branding.jifo.co/38acf0f8-ed25-4ca7-8ee6-7f2bfddc45a3_Lato-Bold.woff2') format('woff2'),
+        
+        url('https://branding.jifo.co/2f436283-e618-4936-b32f-6947d8c20898_Lato-Bold.woff') format('woff'),
+        
+        url('https://branding.jifo.co/a37114a1-59fc-46c8-bb83-4ef28964baee_Lato-Bold.ttf') format('truetype');
+        
+}
+
