@@ -7,5 +7,5 @@ Empirical Project: Supply Chain
 Clayton Nabors, Abby Inbusch
 
 ## LINKS
-[HTML](https://github.com/claytonnabors/EconGrowthUG-Fall-2022-The-Slipping-of-Shipping-Supply-Chain/blob/main/ECON%204362%20Empirical%20Project%20(Final).html) [SLIDES](https://github.com/claytonnabors/EconGrowthUG-Fall-2022-The-Slipping-of-Shipping-Supply-Chain/blob/main/ECON%204362%20Empirical%20Project%20(Final).slides.html) [NOTEBOOK](https://github.com/claytonnabors/EconGrowthUG-Fall-2022-The-Slipping-of-Shipping-Supply-Chain/blob/main/ECON%204362%20Empirical%20Project%20(Final).ipynb)
+[HTML](https://claytonnabors.github.io/EconGrowthUG-Fall-2022-The-Slipping-of-Shipping-Supply-Chain/ECON%204362%20Empirical%20Project%20(Final).html) [SLIDES](https://claytonnabors.github.io/EconGrowthUG-Fall-2022-The-Slipping-of-Shipping-Supply-Chain/) [NOTEBOOK](https://github.com/claytonnabors/EconGrowthUG-Fall-2022-The-Slipping-of-Shipping-Supply-Chain/blob/main/ECON%204362%20Empirical%20Project%20(Final).ipynb)
 
